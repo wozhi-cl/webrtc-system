@@ -1,5 +1,5 @@
 {
-  "name": "vue-server-template",
+  "name": "webrtc-system",
   "version": "1.0.0",
   "description": "vue template project with express server and view-design UI",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HEJIN2016/vue-server-template.git"
+    "url": "git+https://github.com/wozhi-cl/webrtc-system.git"
   },
   "keywords": [
     "vue",
@@ -23,9 +23,9 @@
   "author": "hejin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HEJIN2016/vue-server-template/issues"
+    "url": "https://github.com/wozhi-cl/webrtc-system/issues"
   },
-  "homepage": "https://github.com/HEJIN2016/vue-server-template#readme",
+  "homepage": "https://github.com/wozhi-cl/webrtc-system#README.md",
   "dependencies": {
     "@socket.io/admin-ui": "^0.5.1",
     "cross-env": "^7.0.2",
